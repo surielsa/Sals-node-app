@@ -3,7 +3,7 @@ var fs = require('fs');
 
 var nodeArgs = process.argv;
 
-
+//OMDB Movie Search Code
 var movieName = "";
 
 for (var i = 2; i < nodeArgs.length; i++) {

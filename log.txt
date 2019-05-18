@@ -1,0 +1,8 @@
+Movie: American Beauty
+Release Year: 1999
+IMDB Rating: 8.4
+Country Produced In: USA
+Plot: A sexually frustrated suburban father has a mid-life crisis after becoming infatuated with his daughter's best friend.
+Language: English
+Cast Kevin Spacey, Annette Bening, Thora Birch, Wes Bentley
+Rotten Tomatoes Rating: 88%

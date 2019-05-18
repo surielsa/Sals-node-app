@@ -6,9 +6,6 @@ var spotify = new Spotify(keys.spotify);
 var inputParameter = process.argv[2];
 var fs = require('fs');
 
-
-
-
 //Spotify Song Search Code
 spotify.search({ type: 'track', query: inputParameter, limit: 10 }, function (err, data) {
 

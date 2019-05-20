@@ -19,23 +19,23 @@ Here are screenshots of the terminal receiving the information from the APIs bas
 
 For a Concert...
 
-concert-this <name-of-performer>
+concert-this "name-of-performer"
 
 ![](images/concert-this.png)
 
 
 For Song...
 
-spotify-this-song <name-of-song>
+spotify-this-song "name-of-song"
 
-
+![](images/spotify-this-song.png)
 
 For Movie...
 
-movie-this <name-of-movie>
+movie-this "name-of-movie"
 
-
+![](images/movie-this.png)
 
   Below is link of a video of App working with all APIs. The Spotify API for music, the OMDB APi for movies, and the Bands in Town API for Event information. Enjoy!
 
-
+https://drive.google.com/open?id=1tDsE0bP_3JLg2ujxNM-V9RATtf2lSsEu

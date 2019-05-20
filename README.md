@@ -38,4 +38,4 @@ movie-this "name-of-movie"
 
   Below is link of a video of App working with all APIs. The Spotify API for music, the OMDB APi for movies, and the Bands in Town API for Event information. Enjoy!
 
-https://drive.google.com/open?id=1tDsE0bP_3JLg2ujxNM-V9RATtf2lSsEu
+https://drive.google.com/open?id=1Z4vUCBpFqWwv4PNqGMuJpv43QSUMnN4I

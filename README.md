@@ -2,6 +2,8 @@
 
 By: Sal Suriel
 
+https://surielsa.github.io/liri-node-app/
+
  The LIRI is a _Language_ Interpretation and Recognition Interface. LIRI will be a command line node app that takes in parameters and gives you back data. The user will retrieve data from three different API sources and the results will be recorded in the "log.txt file.
 
  The commands the user will use to retrieve information will be...

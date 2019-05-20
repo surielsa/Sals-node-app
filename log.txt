@@ -1,8 +1,814 @@
-Movie: American Beauty
-Release Year: 1999
-IMDB Rating: 8.4
-Country Produced In: USA
-Plot: A sexually frustrated suburban father has a mid-life crisis after becoming infatuated with his daughter's best friend.
+SONG
+0
+song name: Power is Power (feat. The Weeknd & Travis Scott)
+preview song: https://p.scdn.co/mp3-preview/80b86c4843f38991349c2b68d62c2d135d4a20a0?cid=e40a7a7a82ac481198cf313aaade378a
+album: For The Throne (Music Inspired by the HBO Series Game of Thrones)
+artist(s): SZA
+SONG
+1
+song name: POWER
+preview song: null
+album: My Beautiful Dark Twisted Fantasy
+artist(s): Kanye West
+SONG
+2
+song name: Power Trip
+preview song: https://p.scdn.co/mp3-preview/933c38ca844a1d3ae03b61614ad5b33f85f2eb5a?cid=e40a7a7a82ac481198cf313aaade378a
+album: Born Sinner
+artist(s): J. Cole
+SONG
+3
+song name: Power Over Me
+preview song: null
+album: Power Over Me
+artist(s): Dermot Kennedy
+SONG
+4
+song name: The Power Of Love
+preview song: null
+album: Greatest Hits: Huey Lewis And The News
+artist(s): Huey Lewis & The News
+SONG
+5
+song name: Power Trip
+preview song: https://p.scdn.co/mp3-preview/1a3d0c055d5e7dc5d9036c60b80359182000af1a?cid=e40a7a7a82ac481198cf313aaade378a
+album: Power Trip
+artist(s): J. Cole
+SONG
+6
+song name: Power
+preview song: https://p.scdn.co/mp3-preview/3405c2c6755b12a07cc292a025723c65ef45f986?cid=e40a7a7a82ac481198cf313aaade378a
+album: Glory Days: The Platinum Edition
+artist(s): Little Mix
+SONG
+7
+song name: Walk
+preview song: https://p.scdn.co/mp3-preview/14e66cb261d6027f14d31e7d247b2281b9e79e71?cid=e40a7a7a82ac481198cf313aaade378a
+album: Vulgar Display Of Power
+artist(s): Pantera
+SONG
+8
+song name: Nina Cried Power (feat. Mavis Staples)
+preview song: https://p.scdn.co/mp3-preview/7c78dcee16d896334b27b9de7c44ae685fddae7d?cid=e40a7a7a82ac481198cf313aaade378a
+album: Wasteland, Baby!
+artist(s): Hozier
+SONG
+9
+song name: Power
+preview song: https://p.scdn.co/mp3-preview/c146d9496c73061d9e0155226c8d989f5518e90e?cid=e40a7a7a82ac481198cf313aaade378a
+album: Power
+artist(s): Hardwell
+SONG
+10
+song name: Flower Power
+preview song: null
+album: From The Fires
+artist(s): Greta Van Fleet
+SONG
+11
+song name: Kiss
+preview song: https://p.scdn.co/mp3-preview/87d72814c44403d3ff668ce8639d3d5b287a39de?cid=e40a7a7a82ac481198cf313aaade378a
+album: Parade - Music From The Motion Picture Under The Cherry Moon
+artist(s): Prince
+SONG
+12
+song name: Power Up
+preview song: https://p.scdn.co/mp3-preview/5f215e6e3f5ebae780b4c160363b5ceae999a71c?cid=e40a7a7a82ac481198cf313aaade378a
+album: Summer Magic - Summer Mini Album
+artist(s): Red Velvet
+SONG
+13
+song name: Purple Rain
+preview song: https://p.scdn.co/mp3-preview/2fe008411edea4f21355301daa8993663eaf46f8?cid=e40a7a7a82ac481198cf313aaade378a
+album: Purple Rain
+artist(s): Prince
+SONG
+14
+song name: Shrike
+preview song: https://p.scdn.co/mp3-preview/fe9db41ed14f3b2a75be8fb954299075004520ba?cid=e40a7a7a82ac481198cf313aaade378a
+album: Nina Cried Power - EP
+artist(s): Hozier
+SONG
+15
+song name: Power
+preview song: https://p.scdn.co/mp3-preview/1e9b4ad85cecb40c5e8226c80e1c6469419c0afc?cid=e40a7a7a82ac481198cf313aaade378a
+album: Joytime II
+artist(s): Marshmello
+SONG
+16
+song name: Power
+preview song: https://p.scdn.co/mp3-preview/fe6099ffe979e2c7fbe49a2aa401b1a159c29916?cid=e40a7a7a82ac481198cf313aaade378a
+album: The Vault
+artist(s): G-Eazy
+SONG
+17
+song name: Resurrection Power
+preview song: null
+album: Resurrection Power
+artist(s): Chris Tomlin
+SONG
+18
+song name: Same Power
+preview song: null
+album: I Will Follow
+artist(s): Jeremy Camp
+SONG
+19
+song name: When Doves Cry
+preview song: https://p.scdn.co/mp3-preview/5fc1bc59898ea8d0d23cf88810828d014020ef5d?cid=e40a7a7a82ac481198cf313aaade378a
+album: Purple Rain
+artist(s): Prince
+MOVIE
+Title: Joon
+Release Year: 2015
+IMDB Rating: N/A
+Country of Production: Canada
 Language: English
-Cast Kevin Spacey, Annette Bening, Thora Birch, Wes Bentley
-Rotten Tomatoes Rating: 88%
+Plot: 30-year-old Joon is a prison guard in a notorious Gulag in the world's most repressive nation when she discovers an evil so hideous it transforms her from a guardian of the totalitarian order into an enemy of the state.
+Cast: Arden Cho, Jane Park Smith
+EVENT
+0
+Name of the Venue: P!NK: BEAUTIFUL TRAUMA WORLD TOUR
+Venue Location: New York
+Date of the Event: 2019-05-21T19:00:00
+EVENT
+1
+Name of the Venue: Madison Square Garden
+Venue Location: New York
+Date of the Event: 2019-05-22T19:00:00
+EVENT
+2
+Name of the Venue: Johan Cruijff Stadium
+Venue Location: Amsterdam
+Date of the Event: 2019-06-16T19:00:15
+EVENT
+3
+Name of the Venue: RDS
+Venue Location: Dublin
+Date of the Event: 2019-06-18T19:00:10
+EVENT
+4
+Name of the Venue: Principality Stadium
+Venue Location: Cardiff
+Date of the Event: 2019-06-20T19:00:25
+EVENT
+5
+Name of the Venue: Hampden Park
+Venue Location: Glasgow
+Date of the Event: 2019-06-22T19:00:03
+EVENT
+6
+Name of the Venue: Hampden Park
+Venue Location: Glasgow
+Date of the Event: 2019-06-23T19:00:55
+EVENT
+7
+Name of the Venue: Anfield Stadium
+Venue Location: Liverpool
+Date of the Event: 2019-06-25T19:00:42
+EVENT
+8
+Name of the Venue: Rock Werchter Festival 
+Venue Location: Werchter
+Date of the Event: 2019-06-27T19:00:56
+EVENT
+9
+Name of the Venue: Wembley Stadium
+Venue Location: London
+Date of the Event: 2019-06-29T19:00:44
+EVENT
+10
+Name of the Venue: Wembley Stadium
+Venue Location: London
+Date of the Event: 2019-06-30T19:00:38
+EVENT
+11
+Name of the Venue: La Defense Arena
+Venue Location: Paris
+Date of the Event: 2019-07-03T19:00:09
+EVENT
+12
+Name of the Venue: Rhein Energie Stadion
+Venue Location: Cologne
+Date of the Event: 2019-07-05T19:00:55
+EVENT
+13
+Name of the Venue: Rhein Energie Stadion
+Venue Location: Cologne
+Date of the Event: 2019-07-06T19:00:15
+EVENT
+14
+Name of the Venue: Volksparkstadion
+Venue Location: Hamburg
+Date of the Event: 2019-07-08T19:00:26
+EVENT
+15
+Name of the Venue: Mercedes-Benz Arena
+Venue Location: Stuttgart
+Date of the Event: 2019-07-10T19:00:56
+EVENT
+16
+Name of the Venue: HDI Arena
+Venue Location: Hannover
+Date of the Event: 2019-07-12T19:00:25
+EVENT
+17
+Name of the Venue: Olympiastadion Berlin
+Venue Location: Berlin
+Date of the Event: 2019-07-14T19:00:54
+EVENT
+18
+Name of the Venue: PGE Narodowy Stadium
+Venue Location: Warsaw
+Date of the Event: 2019-07-20T19:00:33
+EVENT
+19
+Name of the Venue: Commerzbank Arena
+Venue Location: Frankfurt
+Date of the Event: 2019-07-22T19:00:08
+EVENT
+20
+Name of the Venue: Ernst Happel Stadium
+Venue Location: Wien
+Date of the Event: 2019-07-24T19:00:53
+EVENT
+21
+Name of the Venue: Olympiastadion Munchen
+Venue Location: München
+Date of the Event: 2019-07-26T19:00:49
+EVENT
+22
+Name of the Venue: Olympiastadion Munchen
+Venue Location: München
+Date of the Event: 2019-07-27T19:00:00
+EVENT
+23
+Name of the Venue: Letzigrund Stadium
+Venue Location: Zürich
+Date of the Event: 2019-07-30T19:00:25
+EVENT
+24
+Name of the Venue: Tele2 Arena
+Venue Location: Stockholm
+Date of the Event: 2019-08-03T19:00:03
+EVENT
+25
+Name of the Venue: Telenor Arena
+Venue Location: Oslo
+Date of the Event: 2019-08-05T19:00:16
+EVENT
+26
+Name of the Venue: Stadium Casa Arena
+Venue Location: Horsens
+Date of the Event: 2019-08-07T19:00:15
+EVENT
+27
+Name of the Venue: VELTINS-Arena
+Venue Location: Ge
+Date of the Event: 2019-08-09T19:00:36
+EVENT
+28
+Name of the Venue: Malieveld Pavillion
+Venue Location: Den Haag
+Date of the Event: 2019-08-11T19:00:14
+EVENT
+29
+Name of the Venue: Rock in Rio
+Venue Location: Rio De Janeiro
+Date of the Event: 2019-10-05T19:00:51
+EVENT
+30
+Name of the Venue: Circuit of the Americas
+Venue Location: Austin
+Date of the Event: 2019-11-02T19:00:08
+EVENT
+0
+Name of the Venue: P!NK: BEAUTIFUL TRAUMA WORLD TOUR
+Venue Location: New York
+Date of the Event: 2019-05-21T19:00:00
+EVENT
+1
+Name of the Venue: Madison Square Garden
+Venue Location: New York
+Date of the Event: 2019-05-22T19:00:00
+EVENT
+2
+Name of the Venue: Johan Cruijff Stadium
+Venue Location: Amsterdam
+Date of the Event: 2019-06-16T19:00:15
+EVENT
+3
+Name of the Venue: RDS
+Venue Location: Dublin
+Date of the Event: 2019-06-18T19:00:10
+EVENT
+4
+Name of the Venue: Principality Stadium
+Venue Location: Cardiff
+Date of the Event: 2019-06-20T19:00:25
+EVENT
+5
+Name of the Venue: Hampden Park
+Venue Location: Glasgow
+Date of the Event: 2019-06-22T19:00:03
+EVENT
+6
+Name of the Venue: Hampden Park
+Venue Location: Glasgow
+Date of the Event: 2019-06-23T19:00:55
+EVENT
+7
+Name of the Venue: Anfield Stadium
+Venue Location: Liverpool
+Date of the Event: 2019-06-25T19:00:42
+EVENT
+8
+Name of the Venue: Rock Werchter Festival 
+Venue Location: Werchter
+Date of the Event: 2019-06-27T19:00:56
+EVENT
+9
+Name of the Venue: Wembley Stadium
+Venue Location: London
+Date of the Event: 2019-06-29T19:00:44
+EVENT
+10
+Name of the Venue: Wembley Stadium
+Venue Location: London
+Date of the Event: 2019-06-30T19:00:38
+EVENT
+11
+Name of the Venue: La Defense Arena
+Venue Location: Paris
+Date of the Event: 2019-07-03T19:00:09
+EVENT
+12
+Name of the Venue: Rhein Energie Stadion
+Venue Location: Cologne
+Date of the Event: 2019-07-05T19:00:55
+EVENT
+13
+Name of the Venue: Rhein Energie Stadion
+Venue Location: Cologne
+Date of the Event: 2019-07-06T19:00:15
+EVENT
+14
+Name of the Venue: Volksparkstadion
+Venue Location: Hamburg
+Date of the Event: 2019-07-08T19:00:26
+EVENT
+15
+Name of the Venue: Mercedes-Benz Arena
+Venue Location: Stuttgart
+Date of the Event: 2019-07-10T19:00:56
+EVENT
+16
+Name of the Venue: HDI Arena
+Venue Location: Hannover
+Date of the Event: 2019-07-12T19:00:25
+EVENT
+17
+Name of the Venue: Olympiastadion Berlin
+Venue Location: Berlin
+Date of the Event: 2019-07-14T19:00:54
+EVENT
+18
+Name of the Venue: PGE Narodowy Stadium
+Venue Location: Warsaw
+Date of the Event: 2019-07-20T19:00:33
+EVENT
+19
+Name of the Venue: Commerzbank Arena
+Venue Location: Frankfurt
+Date of the Event: 2019-07-22T19:00:08
+EVENT
+20
+Name of the Venue: Ernst Happel Stadium
+Venue Location: Wien
+Date of the Event: 2019-07-24T19:00:53
+EVENT
+21
+Name of the Venue: Olympiastadion Munchen
+Venue Location: München
+Date of the Event: 2019-07-26T19:00:49
+EVENT
+22
+Name of the Venue: Olympiastadion Munchen
+Venue Location: München
+Date of the Event: 2019-07-27T19:00:00
+EVENT
+23
+Name of the Venue: Letzigrund Stadium
+Venue Location: Zürich
+Date of the Event: 2019-07-30T19:00:25
+EVENT
+24
+Name of the Venue: Tele2 Arena
+Venue Location: Stockholm
+Date of the Event: 2019-08-03T19:00:03
+EVENT
+25
+Name of the Venue: Telenor Arena
+Venue Location: Oslo
+Date of the Event: 2019-08-05T19:00:16
+EVENT
+26
+Name of the Venue: Stadium Casa Arena
+Venue Location: Horsens
+Date of the Event: 2019-08-07T19:00:15
+EVENT
+27
+Name of the Venue: VELTINS-Arena
+Venue Location: Ge
+Date of the Event: 2019-08-09T19:00:36
+EVENT
+28
+Name of the Venue: Malieveld Pavillion
+Venue Location: Den Haag
+Date of the Event: 2019-08-11T19:00:14
+EVENT
+29
+Name of the Venue: Rock in Rio
+Venue Location: Rio De Janeiro
+Date of the Event: 2019-10-05T19:00:51
+EVENT
+30
+Name of the Venue: Circuit of the Americas
+Venue Location: Austin
+Date of the Event: 2019-11-02T19:00:08
+SONG
+0
+song name: I Want It That Way
+preview song: https://p.scdn.co/mp3-preview/e72a05dc3f69c891e3390c3ceaa77fad02f6b5f6?cid=e40a7a7a82ac481198cf313aaade378a
+album: The Hits--Chapter One
+artist(s): Backstreet Boys
+SONG
+1
+song name: I Want It That Way
+preview song: https://p.scdn.co/mp3-preview/b8c2410a5acb68b462be6ac85f1312430e2b149c?cid=e40a7a7a82ac481198cf313aaade378a
+album: Millennium
+artist(s): Backstreet Boys
+SONG
+2
+song name: I Want It That Way - Reimagined
+preview song: https://p.scdn.co/mp3-preview/7f612d6ba66571500e981e74bb36e14b9906be77?cid=e40a7a7a82ac481198cf313aaade378a
+album: I Want It That Way (Reimagined)
+artist(s): Backstreet Boys
+SONG
+3
+song name: I Want It That Way
+preview song: https://p.scdn.co/mp3-preview/4a163fbfa2dbbe4433f277e0e7395dca656364f5?cid=e40a7a7a82ac481198cf313aaade378a
+album: Covers Part IV
+artist(s): Anthem Lights
+SONG
+4
+song name: I Want It That Way
+preview song: https://p.scdn.co/mp3-preview/f8181f66713983fab073e133e23c741acbe00d75?cid=e40a7a7a82ac481198cf313aaade378a
+album: I Want It That Way
+artist(s): Mick Jensen
+SONG
+5
+song name: I Want It That Way
+preview song: https://p.scdn.co/mp3-preview/cc50bfee8d34ec92fda4109243c7ef0e6856f185?cid=e40a7a7a82ac481198cf313aaade378a
+album: Under the Covers, Vol. 3
+artist(s): Jess and Gabriel
+SONG
+6
+song name: I Want It That Way
+preview song: https://p.scdn.co/mp3-preview/99c791194bbd4e5f315ca8964babf0b69bc520b3?cid=e40a7a7a82ac481198cf313aaade378a
+album: Beautiful Dreams
+artist(s): Tyler and Mark
+SONG
+7
+song name: Ebay (Parody of "I Want It That Way" by the Backstreet Boys)
+preview song: https://p.scdn.co/mp3-preview/e217ea111ab84a777f204252fce4b18d5de3ae80?cid=e40a7a7a82ac481198cf313aaade378a
+album: Poodle Hat
+artist(s): "Weird Al" Yankovic
+SONG
+8
+song name: I Want It That Way
+preview song: https://p.scdn.co/mp3-preview/2f96341eb8415a3efb27375db1c4d59928408c2f?cid=e40a7a7a82ac481198cf313aaade378a
+album: 90 Sweet 90s Hits!
+artist(s): Backstreet Boys
+SONG
+9
+song name: I Want It That Way
+preview song: https://p.scdn.co/mp3-preview/adf2485de3f3f375593b5307a792e8d8e6f19794?cid=e40a7a7a82ac481198cf313aaade378a
+album: NKOTBSB
+artist(s): Backstreet Boys
+SONG
+10
+song name: I Want It That Way
+preview song: null
+album: I Want It That Way
+artist(s): Steel Panther
+SONG
+11
+song name: Bye Bye Bye / I Want It That Way (Glee Cast Version)
+preview song: https://p.scdn.co/mp3-preview/3aa63b5c98b98ae333e567813e5c720abb2914f0?cid=e40a7a7a82ac481198cf313aaade378a
+album: Bye Bye Bye / I Want It That Way (Glee Cast Version)
+artist(s): Glee Cast
+SONG
+12
+song name: I Want It That Way
+preview song: https://p.scdn.co/mp3-preview/764f1dcb8c9a9cec099cc361cb388f931bf023d3?cid=e40a7a7a82ac481198cf313aaade378a
+album: Cover Sessions, Vol. 2
+artist(s): Boyce Avenue
+SONG
+13
+song name: I Want It That Way
+preview song: https://p.scdn.co/mp3-preview/cdde86f49ca4ef217ac08bbbb0c6295c16f015b0?cid=e40a7a7a82ac481198cf313aaade378a
+album: I Want It That Way
+artist(s): Manuel Costa
+SONG
+14
+song name: I Want It That Way
+preview song: null
+album: Punk Goes Pop
+artist(s): Dynamite Boy
+SONG
+15
+song name: I Want It That Way
+preview song: https://p.scdn.co/mp3-preview/33685e005149d5e7d0199a764163ff77f7762e29?cid=e40a7a7a82ac481198cf313aaade378a
+album: Nu Funk
+artist(s): Scary Pockets
+SONG
+16
+song name: I Want It That Way
+preview song: https://p.scdn.co/mp3-preview/8d1287b933d37b96943a5041ebcd46c328c9a0ce?cid=e40a7a7a82ac481198cf313aaade378a
+album: I Want It That Way
+artist(s): Yshop
+SONG
+17
+song name: I Want It That Way
+preview song: https://p.scdn.co/mp3-preview/53296f4b689baaa0be6d94e8720c044e98d4b3e3?cid=e40a7a7a82ac481198cf313aaade378a
+album: Selfies on Kodachrome
+artist(s): Scott Bradlee's Postmodern Jukebox
+SONG
+18
+song name: I Want It That Way
+preview song: https://p.scdn.co/mp3-preview/f44bea13dbf31275a76f3dee8c40dcf25bd051f1?cid=e40a7a7a82ac481198cf313aaade378a
+album: Timeless Love
+artist(s): Love Hits On Piano
+SONG
+19
+song name: Ebay (Parody of "I Want It That Way" by the Backstreet Boys)
+preview song: https://p.scdn.co/mp3-preview/5632d8e302d70afaa8f79c962aa4b2032a45b3ef?cid=e40a7a7a82ac481198cf313aaade378a
+album: The Essential "Weird Al" Yankovic
+artist(s): "Weird Al" Yankovic
+MOVIE
+Title: Girl, Interrupted
+Release Year: 1999
+IMDB Rating: 7.4
+Country of Production: USA, Germany
+Language: English
+Plot: Based on writer Susanna Kaysen's account of her 18-month stay at a mental hospital in the 1960s.
+Cast: Winona Ryder, Angelina Jolie, Clea DuVall, Brittany Murphy
+SONG
+0
+song name: I Want It That Way
+preview song: https://p.scdn.co/mp3-preview/e72a05dc3f69c891e3390c3ceaa77fad02f6b5f6?cid=e40a7a7a82ac481198cf313aaade378a
+album: The Hits--Chapter One
+artist(s): Backstreet Boys
+SONG
+1
+song name: I Want It That Way
+preview song: https://p.scdn.co/mp3-preview/b8c2410a5acb68b462be6ac85f1312430e2b149c?cid=e40a7a7a82ac481198cf313aaade378a
+album: Millennium
+artist(s): Backstreet Boys
+SONG
+2
+song name: I Want It That Way - Reimagined
+preview song: https://p.scdn.co/mp3-preview/7f612d6ba66571500e981e74bb36e14b9906be77?cid=e40a7a7a82ac481198cf313aaade378a
+album: I Want It That Way (Reimagined)
+artist(s): Backstreet Boys
+SONG
+3
+song name: I Want It That Way
+preview song: https://p.scdn.co/mp3-preview/4a163fbfa2dbbe4433f277e0e7395dca656364f5?cid=e40a7a7a82ac481198cf313aaade378a
+album: Covers Part IV
+artist(s): Anthem Lights
+SONG
+4
+song name: I Want It That Way
+preview song: https://p.scdn.co/mp3-preview/f8181f66713983fab073e133e23c741acbe00d75?cid=e40a7a7a82ac481198cf313aaade378a
+album: I Want It That Way
+artist(s): Mick Jensen
+SONG
+5
+song name: I Want It That Way
+preview song: https://p.scdn.co/mp3-preview/cc50bfee8d34ec92fda4109243c7ef0e6856f185?cid=e40a7a7a82ac481198cf313aaade378a
+album: Under the Covers, Vol. 3
+artist(s): Jess and Gabriel
+SONG
+6
+song name: I Want It That Way
+preview song: https://p.scdn.co/mp3-preview/99c791194bbd4e5f315ca8964babf0b69bc520b3?cid=e40a7a7a82ac481198cf313aaade378a
+album: Beautiful Dreams
+artist(s): Tyler and Mark
+SONG
+7
+song name: Ebay (Parody of "I Want It That Way" by the Backstreet Boys)
+preview song: https://p.scdn.co/mp3-preview/e217ea111ab84a777f204252fce4b18d5de3ae80?cid=e40a7a7a82ac481198cf313aaade378a
+album: Poodle Hat
+artist(s): "Weird Al" Yankovic
+SONG
+8
+song name: I Want It That Way
+preview song: https://p.scdn.co/mp3-preview/2f96341eb8415a3efb27375db1c4d59928408c2f?cid=e40a7a7a82ac481198cf313aaade378a
+album: 90 Sweet 90s Hits!
+artist(s): Backstreet Boys
+SONG
+9
+song name: I Want It That Way
+preview song: https://p.scdn.co/mp3-preview/adf2485de3f3f375593b5307a792e8d8e6f19794?cid=e40a7a7a82ac481198cf313aaade378a
+album: NKOTBSB
+artist(s): Backstreet Boys
+SONG
+10
+song name: I Want It That Way
+preview song: null
+album: I Want It That Way
+artist(s): Steel Panther
+SONG
+11
+song name: Bye Bye Bye / I Want It That Way (Glee Cast Version)
+preview song: https://p.scdn.co/mp3-preview/3aa63b5c98b98ae333e567813e5c720abb2914f0?cid=e40a7a7a82ac481198cf313aaade378a
+album: Bye Bye Bye / I Want It That Way (Glee Cast Version)
+artist(s): Glee Cast
+SONG
+12
+song name: I Want It That Way
+preview song: https://p.scdn.co/mp3-preview/764f1dcb8c9a9cec099cc361cb388f931bf023d3?cid=e40a7a7a82ac481198cf313aaade378a
+album: Cover Sessions, Vol. 2
+artist(s): Boyce Avenue
+SONG
+13
+song name: I Want It That Way
+preview song: https://p.scdn.co/mp3-preview/cdde86f49ca4ef217ac08bbbb0c6295c16f015b0?cid=e40a7a7a82ac481198cf313aaade378a
+album: I Want It That Way
+artist(s): Manuel Costa
+SONG
+14
+song name: I Want It That Way
+preview song: null
+album: Punk Goes Pop
+artist(s): Dynamite Boy
+SONG
+15
+song name: I Want It That Way
+preview song: https://p.scdn.co/mp3-preview/33685e005149d5e7d0199a764163ff77f7762e29?cid=e40a7a7a82ac481198cf313aaade378a
+album: Nu Funk
+artist(s): Scary Pockets
+SONG
+16
+song name: I Want It That Way
+preview song: https://p.scdn.co/mp3-preview/8d1287b933d37b96943a5041ebcd46c328c9a0ce?cid=e40a7a7a82ac481198cf313aaade378a
+album: I Want It That Way
+artist(s): Yshop
+SONG
+17
+song name: I Want It That Way
+preview song: https://p.scdn.co/mp3-preview/53296f4b689baaa0be6d94e8720c044e98d4b3e3?cid=e40a7a7a82ac481198cf313aaade378a
+album: Selfies on Kodachrome
+artist(s): Scott Bradlee's Postmodern Jukebox
+SONG
+18
+song name: I Want It That Way
+preview song: https://p.scdn.co/mp3-preview/f44bea13dbf31275a76f3dee8c40dcf25bd051f1?cid=e40a7a7a82ac481198cf313aaade378a
+album: Timeless Love
+artist(s): Love Hits On Piano
+SONG
+19
+song name: Ebay (Parody of "I Want It That Way" by the Backstreet Boys)
+preview song: https://p.scdn.co/mp3-preview/5632d8e302d70afaa8f79c962aa4b2032a45b3ef?cid=e40a7a7a82ac481198cf313aaade378a
+album: The Essential "Weird Al" Yankovic
+artist(s): "Weird Al" Yankovic
+MOVIE
+Title: Girl, Interrupted
+Release Year: 1999
+IMDB Rating: 7.4
+Country of Production: USA, Germany
+Language: English
+Plot: Based on writer Susanna Kaysen's account of her 18-month stay at a mental hospital in the 1960s.
+Cast: Winona Ryder, Angelina Jolie, Clea DuVall, Brittany Murphy
+SONG
+0
+song name: Power is Power (feat. The Weeknd & Travis Scott)
+preview song: https://p.scdn.co/mp3-preview/80b86c4843f38991349c2b68d62c2d135d4a20a0?cid=e40a7a7a82ac481198cf313aaade378a
+album: For The Throne (Music Inspired by the HBO Series Game of Thrones)
+artist(s): SZA
+SONG
+1
+song name: POWER
+preview song: null
+album: My Beautiful Dark Twisted Fantasy
+artist(s): Kanye West
+SONG
+2
+song name: Power Trip
+preview song: https://p.scdn.co/mp3-preview/933c38ca844a1d3ae03b61614ad5b33f85f2eb5a?cid=e40a7a7a82ac481198cf313aaade378a
+album: Born Sinner
+artist(s): J. Cole
+SONG
+3
+song name: Power Over Me
+preview song: null
+album: Power Over Me
+artist(s): Dermot Kennedy
+SONG
+4
+song name: The Power Of Love
+preview song: null
+album: Greatest Hits: Huey Lewis And The News
+artist(s): Huey Lewis & The News
+SONG
+5
+song name: Power Trip
+preview song: https://p.scdn.co/mp3-preview/1a3d0c055d5e7dc5d9036c60b80359182000af1a?cid=e40a7a7a82ac481198cf313aaade378a
+album: Power Trip
+artist(s): J. Cole
+SONG
+6
+song name: Power
+preview song: https://p.scdn.co/mp3-preview/3405c2c6755b12a07cc292a025723c65ef45f986?cid=e40a7a7a82ac481198cf313aaade378a
+album: Glory Days: The Platinum Edition
+artist(s): Little Mix
+SONG
+7
+song name: Walk
+preview song: https://p.scdn.co/mp3-preview/14e66cb261d6027f14d31e7d247b2281b9e79e71?cid=e40a7a7a82ac481198cf313aaade378a
+album: Vulgar Display Of Power
+artist(s): Pantera
+SONG
+8
+song name: Nina Cried Power (feat. Mavis Staples)
+preview song: https://p.scdn.co/mp3-preview/7c78dcee16d896334b27b9de7c44ae685fddae7d?cid=e40a7a7a82ac481198cf313aaade378a
+album: Wasteland, Baby!
+artist(s): Hozier
+SONG
+9
+song name: Power
+preview song: https://p.scdn.co/mp3-preview/c146d9496c73061d9e0155226c8d989f5518e90e?cid=e40a7a7a82ac481198cf313aaade378a
+album: Power
+artist(s): Hardwell
+SONG
+10
+song name: Flower Power
+preview song: null
+album: From The Fires
+artist(s): Greta Van Fleet
+SONG
+11
+song name: Kiss
+preview song: https://p.scdn.co/mp3-preview/87d72814c44403d3ff668ce8639d3d5b287a39de?cid=e40a7a7a82ac481198cf313aaade378a
+album: Parade - Music From The Motion Picture Under The Cherry Moon
+artist(s): Prince
+SONG
+12
+song name: Power Up
+preview song: https://p.scdn.co/mp3-preview/5f215e6e3f5ebae780b4c160363b5ceae999a71c?cid=e40a7a7a82ac481198cf313aaade378a
+album: Summer Magic - Summer Mini Album
+artist(s): Red Velvet
+SONG
+13
+song name: Purple Rain
+preview song: https://p.scdn.co/mp3-preview/2fe008411edea4f21355301daa8993663eaf46f8?cid=e40a7a7a82ac481198cf313aaade378a
+album: Purple Rain
+artist(s): Prince
+SONG
+14
+song name: Shrike
+preview song: https://p.scdn.co/mp3-preview/fe9db41ed14f3b2a75be8fb954299075004520ba?cid=e40a7a7a82ac481198cf313aaade378a
+album: Nina Cried Power - EP
+artist(s): Hozier
+SONG
+15
+song name: Power
+preview song: https://p.scdn.co/mp3-preview/1e9b4ad85cecb40c5e8226c80e1c6469419c0afc?cid=e40a7a7a82ac481198cf313aaade378a
+album: Joytime II
+artist(s): Marshmello
+SONG
+16
+song name: Power
+preview song: https://p.scdn.co/mp3-preview/fe6099ffe979e2c7fbe49a2aa401b1a159c29916?cid=e40a7a7a82ac481198cf313aaade378a
+album: The Vault
+artist(s): G-Eazy
+SONG
+17
+song name: Resurrection Power
+preview song: null
+album: Resurrection Power
+artist(s): Chris Tomlin
+SONG
+18
+song name: Same Power
+preview song: null
+album: I Will Follow
+artist(s): Jeremy Camp
+SONG
+19
+song name: When Doves Cry
+preview song: https://p.scdn.co/mp3-preview/5fc1bc59898ea8d0d23cf88810828d014020ef5d?cid=e40a7a7a82ac481198cf313aaade378a
+album: Purple Rain
+artist(s): Prince

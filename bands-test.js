@@ -9,8 +9,8 @@ function showConcertInfo(inputParameter){
           if (!error && response.statusCode === 200) {
           var concerts = JSON.parse(body);
           for (var i = 0; i < concerts.length; i++) {
-          console.log("**********EVENT INFO*********");
-          fs.appendFileSync("log.txt", "**********EVENT INFO*********\n");
+          console.log(" Event Info ");
+          fs.appendFileSync("log.txt", " Event Info \n");
           console.log(i);
           fs.appendFileSync("log.txt", i+"\n");
           console.log("Name of the Venue: " + concerts[i].venue.name);
@@ -19,8 +19,6 @@ function showConcertInfo(inputParameter){
           fs.appendFileSync("log.txt", "Venue Location: " +  concerts[i].venue.city+"\n");
           console.log("Date of the Event: " +  concerts[i].datetime);
           fs.appendFileSync("log.txt", "Date of the Event: " +  concerts[i].datetime+"\n");
-          console.log("*****************************");
-          fs.appendFileSync("log.txt", "*****************************"+"\n");
           }
           } else{
           console.log('Error occurred.');

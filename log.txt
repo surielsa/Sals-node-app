@@ -812,3 +812,738 @@ song name: When Doves Cry
 preview song: https://p.scdn.co/mp3-preview/5fc1bc59898ea8d0d23cf88810828d014020ef5d?cid=e40a7a7a82ac481198cf313aaade378a
 album: Purple Rain
 artist(s): Prince
+EVENT
+0
+Name of the Venue: P!NK: BEAUTIFUL TRAUMA WORLD TOUR
+Venue Location: New York
+Date of the Event: 2019-05-21T19:00:00
+EVENT
+1
+Name of the Venue: Madison Square Garden
+Venue Location: New York
+Date of the Event: 2019-05-22T19:00:00
+EVENT
+2
+Name of the Venue: Johan Cruijff Stadium
+Venue Location: Amsterdam
+Date of the Event: 2019-06-16T19:00:15
+EVENT
+3
+Name of the Venue: RDS
+Venue Location: Dublin
+Date of the Event: 2019-06-18T19:00:10
+EVENT
+4
+Name of the Venue: Principality Stadium
+Venue Location: Cardiff
+Date of the Event: 2019-06-20T19:00:25
+EVENT
+5
+Name of the Venue: Hampden Park
+Venue Location: Glasgow
+Date of the Event: 2019-06-22T19:00:03
+EVENT
+6
+Name of the Venue: Hampden Park
+Venue Location: Glasgow
+Date of the Event: 2019-06-23T19:00:55
+EVENT
+7
+Name of the Venue: Anfield Stadium
+Venue Location: Liverpool
+Date of the Event: 2019-06-25T19:00:42
+EVENT
+8
+Name of the Venue: Rock Werchter Festival 
+Venue Location: Werchter
+Date of the Event: 2019-06-27T19:00:56
+EVENT
+9
+Name of the Venue: Wembley Stadium
+Venue Location: London
+Date of the Event: 2019-06-29T19:00:44
+EVENT
+10
+Name of the Venue: Wembley Stadium
+Venue Location: London
+Date of the Event: 2019-06-30T19:00:38
+EVENT
+11
+Name of the Venue: La Defense Arena
+Venue Location: Paris
+Date of the Event: 2019-07-03T19:00:09
+EVENT
+12
+Name of the Venue: Rhein Energie Stadion
+Venue Location: Cologne
+Date of the Event: 2019-07-05T19:00:55
+EVENT
+13
+Name of the Venue: Rhein Energie Stadion
+Venue Location: Cologne
+Date of the Event: 2019-07-06T19:00:15
+EVENT
+14
+Name of the Venue: Volksparkstadion
+Venue Location: Hamburg
+Date of the Event: 2019-07-08T19:00:26
+EVENT
+15
+Name of the Venue: Mercedes-Benz Arena
+Venue Location: Stuttgart
+Date of the Event: 2019-07-10T19:00:56
+EVENT
+16
+Name of the Venue: HDI Arena
+Venue Location: Hannover
+Date of the Event: 2019-07-12T19:00:25
+EVENT
+17
+Name of the Venue: Olympiastadion Berlin
+Venue Location: Berlin
+Date of the Event: 2019-07-14T19:00:54
+EVENT
+18
+Name of the Venue: PGE Narodowy Stadium
+Venue Location: Warsaw
+Date of the Event: 2019-07-20T19:00:33
+EVENT
+19
+Name of the Venue: Commerzbank Arena
+Venue Location: Frankfurt
+Date of the Event: 2019-07-22T19:00:08
+EVENT
+20
+Name of the Venue: Ernst Happel Stadium
+Venue Location: Wien
+Date of the Event: 2019-07-24T19:00:53
+EVENT
+21
+Name of the Venue: Olympiastadion Munchen
+Venue Location: München
+Date of the Event: 2019-07-26T19:00:49
+EVENT
+22
+Name of the Venue: Olympiastadion Munchen
+Venue Location: München
+Date of the Event: 2019-07-27T19:00:00
+EVENT
+23
+Name of the Venue: Letzigrund Stadium
+Venue Location: Zürich
+Date of the Event: 2019-07-30T19:00:25
+EVENT
+24
+Name of the Venue: Tele2 Arena
+Venue Location: Stockholm
+Date of the Event: 2019-08-03T19:00:03
+EVENT
+25
+Name of the Venue: Telenor Arena
+Venue Location: Oslo
+Date of the Event: 2019-08-05T19:00:16
+EVENT
+26
+Name of the Venue: Stadium Casa Arena
+Venue Location: Horsens
+Date of the Event: 2019-08-07T19:00:15
+EVENT
+27
+Name of the Venue: VELTINS-Arena
+Venue Location: Ge
+Date of the Event: 2019-08-09T19:00:36
+EVENT
+28
+Name of the Venue: Malieveld Pavillion
+Venue Location: Den Haag
+Date of the Event: 2019-08-11T19:00:14
+EVENT
+29
+Name of the Venue: Rock in Rio
+Venue Location: Rio De Janeiro
+Date of the Event: 2019-10-05T19:00:51
+EVENT
+30
+Name of the Venue: Circuit of the Americas
+Venue Location: Austin
+Date of the Event: 2019-11-02T19:00:08
+EVENT
+0
+Name of the Venue: Rockwood Music Hall Stage 3
+Venue Location: New York
+Date of the Event: 2019-05-21T19:00:00
+EVENT
+1
+Name of the Venue: Plaine De La Belle Etoile Au Bois De Vincennes
+Venue Location: Paris
+Date of the Event: 2019-06-01T13:00:00
+EVENT
+2
+Name of the Venue: The Burl
+Venue Location: Lexington
+Date of the Event: 2019-06-08T21:00:00
+EVENT
+3
+Name of the Venue: Parc de Champagne
+Venue Location: Reims
+Date of the Event: 2019-06-13T18:30:00
+EVENT
+4
+Name of the Venue: Plaine De La Filhole - Plein Air
+Venue Location: Marmande
+Date of the Event: 2019-06-28T18:15:00
+EVENT
+5
+Name of the Venue: Citadelle D'arras
+Venue Location: Arras-en-lavedan
+Date of the Event: 2019-07-05T15:30:00
+EVENT
+6
+Name of the Venue: Site De Malsaucy
+Venue Location: Belfort
+Date of the Event: 2019-07-07T00:00:00
+EVENT
+7
+Name of the Venue: Esplanade Saint Jean D'acre  - Scene Jean Louis Foulquier
+Venue Location: La Rochelle-normande
+Date of the Event: 2019-07-11T19:00:00
+EVENT
+8
+Name of the Venue: Esplanade Du Lac
+Venue Location: Aix Les Bains
+Date of the Event: 2019-07-12T00:00:00
+EVENT
+9
+Name of the Venue: Grand Theatre De La Cite (Theatre Jean Deschamps)
+Venue Location: Carcassonne
+Date of the Event: 2019-07-16T21:30:00
+EVENT
+10
+Name of the Venue: Site De Kerampuil A Carhaix
+Venue Location: Mael-carhaix
+Date of the Event: 2019-07-21T00:00:00
+EVENT
+11
+Name of the Venue: Plaine De L'asse
+Venue Location: Nyon
+Date of the Event: 2019-07-23T15:30:00
+EVENT
+12
+Name of the Venue: Underbelly Cowgate
+Venue Location: Edinburgh
+Date of the Event: 2019-08-01T18:40:00
+EVENT
+0
+Name of the Venue: Club Stomp
+Venue Location: Kansai
+Date of the Event: 2019-05-22T19:00:00
+EVENT
+1
+Name of the Venue: H0l0 Warehouse
+Venue Location: Ridgewood
+Date of the Event: 2019-05-23T22:00:00
+EVENT
+2
+Name of the Venue: More
+Venue Location: Tokyo
+Date of the Event: 2019-05-24T23:00:00
+EVENT
+3
+Name of the Venue: Ammona Infinity Space
+Venue Location: Kansai
+Date of the Event: 2019-05-25T21:00:00
+EVENT
+4
+Name of the Venue: Ammona Infinity Space
+Venue Location: Kansai
+Date of the Event: 2019-05-26T23:00:00
+EVENT
+5
+Name of the Venue: G2
+Venue Location: Kansai
+Date of the Event: 2019-05-27T00:00:00
+EVENT
+6
+Name of the Venue: G3
+Venue Location: Kansai
+Date of the Event: 2019-05-28T00:00:00
+EVENT
+7
+Name of the Venue: Beat Boutique
+Venue Location: Hamburg-nord
+Date of the Event: 2019-05-29T22:00:00
+EVENT
+8
+Name of the Venue: Aoyama Hachi
+Venue Location: Tokyo
+Date of the Event: 2019-05-30T19:00:00
+EVENT
+9
+Name of the Venue: Ammona Infinity Space
+Venue Location: Kansai
+Date of the Event: 2019-06-01T22:00:00
+EVENT
+10
+Name of the Venue: Ammona Infinity Space
+Venue Location: Kansai
+Date of the Event: 2019-06-02T16:00:00
+EVENT
+11
+Name of the Venue: G2
+Venue Location: Kansai
+Date of the Event: 2019-06-03T00:00:00
+EVENT
+12
+Name of the Venue: Ammona Infinity Space
+Venue Location: Kansai
+Date of the Event: 2019-06-04T00:00:00
+EVENT
+13
+Name of the Venue: Glow
+Venue Location: Bangkok
+Date of the Event: 2019-06-05T21:30:00
+EVENT
+14
+Name of the Venue: CHATEAU BOMALE
+Venue Location: St Denis De Pile
+Date of the Event: 2019-06-06T19:15:00
+EVENT
+15
+Name of the Venue: Kieskuhle Broock
+Venue Location: Rostock
+Date of the Event: 2019-06-07T22:00:00
+EVENT
+16
+Name of the Venue: Ammona Infinity Space
+Venue Location: Kansai
+Date of the Event: 2019-06-08T23:00:00
+EVENT
+17
+Name of the Venue: Ammona Infinity Space
+Venue Location: Kansai
+Date of the Event: 2019-06-09T16:00:00
+EVENT
+18
+Name of the Venue: G2
+Venue Location: Kansai
+Date of the Event: 2019-06-10T00:00:00
+EVENT
+19
+Name of the Venue: Ammona Infinity Space
+Venue Location: Kansai
+Date of the Event: 2019-06-11T00:00:00
+EVENT
+20
+Name of the Venue: Nya Kupolen
+Venue Location: Karlskoga
+Date of the Event: 2019-06-12T19:00:00
+EVENT
+21
+Name of the Venue: Ammona Infinity Space
+Venue Location: Kansai
+Date of the Event: 2019-06-15T22:00:00
+EVENT
+22
+Name of the Venue: Ammona Infinity Space
+Venue Location: Kansai
+Date of the Event: 2019-06-16T23:00:00
+EVENT
+23
+Name of the Venue: G2
+Venue Location: Kansai
+Date of the Event: 2019-06-17T00:00:00
+EVENT
+24
+Name of the Venue: Ammona Infinity Space
+Venue Location: Kansai
+Date of the Event: 2019-06-18T00:00:00
+EVENT
+25
+Name of the Venue: Cave
+Venue Location: Tokyo
+Date of the Event: 2019-06-21T22:00:00
+EVENT
+26
+Name of the Venue: Ammona Infinity Space
+Venue Location: Kansai
+Date of the Event: 2019-06-22T22:00:00
+EVENT
+27
+Name of the Venue: Ammona Infinity Space
+Venue Location: Kansai
+Date of the Event: 2019-06-23T23:00:00
+EVENT
+28
+Name of the Venue: G2
+Venue Location: Kansai
+Date of the Event: 2019-06-24T00:00:00
+EVENT
+29
+Name of the Venue: Ammona Infinity Space
+Venue Location: Kansai
+Date of the Event: 2019-06-25T00:00:00
+EVENT
+30
+Name of the Venue: Ammona Infinity Space
+Venue Location: Kansai
+Date of the Event: 2019-06-29T22:00:00
+EVENT
+31
+Name of the Venue: Ammona Infinity Space
+Venue Location: Kansai
+Date of the Event: 2019-06-30T23:00:00
+EVENT
+32
+Name of the Venue: MS Rheingold
+Venue Location: Bingen
+Date of the Event: 2019-07-06T00:00:00
+EVENT
+33
+Name of the Venue: Caserne Pompiers Confluence
+Venue Location: Cosne-cours-sur-loire
+Date of the Event: 2019-07-13T21:00:00
+EVENT
+34
+Name of the Venue: Stage AE
+Venue Location: Pittsburgh
+Date of the Event: 2019-07-28T17:00:00
+EVENT
+35
+Name of the Venue: Planetarium Bochum
+Venue Location: Bochum
+Date of the Event: 2019-09-28T21:00:00
+EVENT
+36
+Name of the Venue: Private Room COA
+Venue Location: Chubu
+Date of the Event: 2019-11-13T16:00:00
+EVENT
+37
+Name of the Venue: CLF Art Cafe [Block A, Bussey Building]
+Venue Location: London
+Date of the Event: 2019-11-23T22:00:00
+EVENT
+0
+Name of the Venue: BAM (Brooklyn Academy of Music)
+Venue Location: Brooklyn
+Date of the Event: 2019-09-12T20:30:00
+EVENT
+1
+Name of the Venue: BAM (Brooklyn Academy of Music)
+Venue Location: Brooklyn
+Date of the Event: 2019-09-14T20:30:00
+EVENT
+2
+Name of the Venue: BAM (Brooklyn Academy of Music)
+Venue Location: Brooklyn
+Date of the Event: 2019-09-15T20:30:00
+EVENT
+3
+Name of the Venue: BAM (Brooklyn Academy of Music)
+Venue Location: Brooklyn
+Date of the Event: 2019-09-17T20:30:00
+EVENT
+4
+Name of the Venue: BAM (Brooklyn Academy of Music)
+Venue Location: Brooklyn
+Date of the Event: 2019-09-19T20:30:00
+EVENT
+5
+Name of the Venue: BAM (Brooklyn Academy of Music)
+Venue Location: Brooklyn
+Date of the Event: 2019-09-21T20:30:00
+EVENT
+6
+Name of the Venue: BAM (Brooklyn Academy of Music)
+Venue Location: Brooklyn
+Date of the Event: 2019-09-22T20:30:00
+EVENT
+7
+Name of the Venue: BAM (Brooklyn Academy of Music)
+Venue Location: Brooklyn
+Date of the Event: 2019-09-24T20:30:00
+EVENT
+8
+Name of the Venue: BAM (Brooklyn Academy of Music)
+Venue Location: Brooklyn
+Date of the Event: 2019-09-25T20:30:00
+EVENT
+9
+Name of the Venue: BAM (Brooklyn Academy of Music)
+Venue Location: Brooklyn
+Date of the Event: 2019-09-26T20:30:00
+EVENT
+10
+Name of the Venue: BAM (Brooklyn Academy of Music)
+Venue Location: Brooklyn
+Date of the Event: 2019-09-28T20:30:00
+EVENT
+11
+Name of the Venue: BAM (Brooklyn Academy of Music)
+Venue Location: Brooklyn
+Date of the Event: 2019-10-01T20:30:00
+EVENT
+12
+Name of the Venue: BAM (Brooklyn Academy of Music)
+Venue Location: Brooklyn
+Date of the Event: 2019-10-02T20:30:00
+EVENT
+13
+Name of the Venue: BAM (Brooklyn Academy of Music)
+Venue Location: Brooklyn
+Date of the Event: 2019-10-03T20:30:00
+EVENT
+14
+Name of the Venue: BAM (Brooklyn Academy of Music)
+Venue Location: Brooklyn
+Date of the Event: 2019-10-05T20:30:00
+EVENT
+15
+Name of the Venue: BAM (Brooklyn Academy of Music)
+Venue Location: Brooklyn
+Date of the Event: 2019-10-06T20:30:00
+EVENT
+16
+Name of the Venue: BAM (Brooklyn Academy of Music)
+Venue Location: Brooklyn
+Date of the Event: 2019-10-07T20:30:00
+EVENT
+17
+Name of the Venue: The Chicago Theatre
+Venue Location: Chicago
+Date of the Event: 2019-10-15T20:30:00
+EVENT
+18
+Name of the Venue: The Chicago Theatre
+Venue Location: Chicago
+Date of the Event: 2019-10-16T20:30:00
+EVENT
+19
+Name of the Venue: The Chicago Theatre
+Venue Location: Chicago
+Date of the Event: 2019-10-17T20:30:00
+EVENT
+20
+Name of the Venue: The Chicago Theatre
+Venue Location: Chicago
+Date of the Event: 2019-10-21T20:30:00
+EVENT
+21
+Name of the Venue: The Chicago Theatre
+Venue Location: Chicago
+Date of the Event: 2019-10-23T20:30:00
+EVENT
+22
+Name of the Venue: The Chicago Theatre
+Venue Location: Chicago
+Date of the Event: 2019-10-24T20:30:00
+EVENT
+23
+Name of the Venue: THE COLOSSEUM AT CAESARS PALACE
+Venue Location: Las Vegas
+Date of the Event: 2019-11-07T20:30:00
+EVENT
+24
+Name of the Venue: THE COLOSSEUM AT CAESARS PALACE
+Venue Location: Las Vegas
+Date of the Event: 2019-11-09T20:30:00
+EVENT
+25
+Name of the Venue: THE COLOSSEUM AT CAESARS PALACE
+Venue Location: Las Vegas
+Date of the Event: 2019-11-10T20:30:00
+EVENT
+26
+Name of the Venue: The Wiltern
+Venue Location: Los Angeles
+Date of the Event: 2019-11-12T20:30:00
+EVENT
+27
+Name of the Venue: The Wiltern
+Venue Location: Los Angeles
+Date of the Event: 2019-11-13T20:30:00
+EVENT
+28
+Name of the Venue: The Wiltern
+Venue Location: Los Angeles
+Date of the Event: 2019-11-14T20:30:00
+EVENT
+29
+Name of the Venue: The Wiltern
+Venue Location: Los Angeles
+Date of the Event: 2019-11-16T20:30:00
+EVENT
+30
+Name of the Venue: The Wiltern
+Venue Location: Los Angeles
+Date of the Event: 2019-11-17T20:30:00
+EVENT
+31
+Name of the Venue: The Wiltern
+Venue Location: Los Angeles
+Date of the Event: 2019-11-19T20:30:00
+EVENT
+32
+Name of the Venue: The Wiltern
+Venue Location: Los Angeles
+Date of the Event: 2019-11-20T20:30:00
+EVENT
+33
+Name of the Venue: The Wiltern
+Venue Location: Los Angeles
+Date of the Event: 2019-11-21T20:30:00
+EVENT
+34
+Name of the Venue: The Wiltern
+Venue Location: Los Angeles
+Date of the Event: 2019-11-23T20:30:00
+EVENT
+35
+Name of the Venue: The Wiltern
+Venue Location: Los Angeles
+Date of the Event: 2019-11-24T20:30:00
+EVENT
+36
+Name of the Venue: The Wiltern
+Venue Location: Los Angeles
+Date of the Event: 2019-11-25T20:30:00
+EVENT
+37
+Name of the Venue: Boch Center - Wang Theatre
+Venue Location: Boston
+Date of the Event: 2019-11-30T20:30:00
+EVENT
+38
+Name of the Venue: Boch Center - Wang Theatre
+Venue Location: Boston
+Date of the Event: 2019-12-01T20:30:00
+EVENT
+39
+Name of the Venue: Boch Center - Wang Theatre
+Venue Location: Boston
+Date of the Event: 2019-12-02T20:30:00
+EVENT
+40
+Name of the Venue: The Met Philadelphia
+Venue Location: Philadelphia
+Date of the Event: 2019-12-07T20:30:00
+EVENT
+41
+Name of the Venue: The Met Philadelphia
+Venue Location: Philadelphia
+Date of the Event: 2019-12-08T20:30:00
+EVENT
+42
+Name of the Venue: The Met Philadelphia
+Venue Location: Philadelphia
+Date of the Event: 2019-12-11T20:30:00
+EVENT
+43
+Name of the Venue: The Fillmore Miami Beach at Jackie Gleason Theater
+Venue Location: Miami Beach
+Date of the Event: 2019-12-14T20:30:00
+EVENT
+44
+Name of the Venue: The Fillmore Miami Beach at Jackie Gleason Theater
+Venue Location: Miami Beach
+Date of the Event: 2019-12-15T20:30:00
+EVENT
+45
+Name of the Venue: The Fillmore Miami Beach at Jackie Gleason Theater
+Venue Location: Miami Beach
+Date of the Event: 2019-12-17T20:30:00
+EVENT
+46
+Name of the Venue: The Fillmore Miami Beach at Jackie Gleason Theater
+Venue Location: Miami Beach
+Date of the Event: 2019-12-18T20:30:00
+EVENT
+47
+Name of the Venue: The Fillmore Miami Beach at Jackie Gleason Theater
+Venue Location: Miami Beach
+Date of the Event: 2019-12-19T20:30:00
+EVENT
+48
+Name of the Venue: London Palladium
+Venue Location: London
+Date of the Event: 2020-01-26T20:30:00
+EVENT
+49
+Name of the Venue: London Palladium
+Venue Location: London
+Date of the Event: 2020-01-27T20:30:00
+EVENT
+50
+Name of the Venue: London Palladium
+Venue Location: London
+Date of the Event: 2020-01-29T19:00:00
+EVENT
+51
+Name of the Venue: London Palladium
+Venue Location: London
+Date of the Event: 2020-01-30T20:30:00
+EVENT
+52
+Name of the Venue: London Palladium
+Venue Location: London
+Date of the Event: 2020-02-01T20:30:00
+EVENT
+53
+Name of the Venue: London Palladium
+Venue Location: London
+Date of the Event: 2020-02-02T20:30:00
+EVENT
+54
+Name of the Venue: London Palladium
+Venue Location: London
+Date of the Event: 2020-02-04T20:30:00
+EVENT
+55
+Name of the Venue: London Palladium
+Venue Location: London
+Date of the Event: 2020-02-05T20:30:00
+EVENT
+56
+Name of the Venue: London Palladium
+Venue Location: London
+Date of the Event: 2020-02-06T20:30:00
+EVENT
+57
+Name of the Venue: London Palladium
+Venue Location: London
+Date of the Event: 2020-02-08T20:30:00
+EVENT
+58
+Name of the Venue: London Palladium
+Venue Location: London
+Date of the Event: 2020-02-09T20:30:00
+EVENT
+59
+Name of the Venue: London Palladium
+Venue Location: London
+Date of the Event: 2020-02-11T20:30:00
+EVENT
+60
+Name of the Venue: Grand Rex
+Venue Location: Paris
+Date of the Event: 2020-02-18T20:00:00
+EVENT
+61
+Name of the Venue: Grand Rex
+Venue Location: Paris
+Date of the Event: 2020-02-19T20:00:00
+EVENT
+62
+Name of the Venue: Grand Rex
+Venue Location: Paris
+Date of the Event: 2020-02-20T20:00:00
+EVENT
+63
+Name of the Venue: Grand Rex
+Venue Location: Paris
+Date of the Event: 2020-02-22T20:00:00
+EVENT
+64
+Name of the Venue: Grand Rex
+Venue Location: Paris
+Date of the Event: 2020-02-23T20:00:00

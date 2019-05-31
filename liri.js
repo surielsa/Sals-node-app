@@ -55,8 +55,6 @@ function showSongInfo(inputParameter) {
                    for (var i = 0; i < songs.length; i++) {
                    console.log("SONG");
                    fs.appendFileSync("log.txt", "SONG\n");
-                   console.log(i);
-                   fs.appendFileSync("log.txt", i +"\n");
                    console.log("Song name: " + songs[i].name);
                    fs.appendFileSync("log.txt", "song name: " + songs[i].name +"\n");
                    console.log("Preview song: " + songs[i].preview_url);

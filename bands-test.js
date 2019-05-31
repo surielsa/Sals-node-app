@@ -11,8 +11,6 @@ function showConcertInfo(inputParameter){
           for (var i = 0; i < concerts.length; i++) {
           console.log(" Event Info ");
           fs.appendFileSync("log.txt", " Event Info \n");
-          console.log(i);
-          fs.appendFileSync("log.txt", i+"\n");
           console.log("Name of the Venue: " + concerts[i].venue.name);
           fs.appendFileSync("log.txt", "Name of the Venue: " + concerts[i].venue.name+"\n");
           console.log("Venue Location: " +  concerts[i].venue.city);
@@ -23,4 +21,6 @@ function showConcertInfo(inputParameter){
           } else{
           console.log('Error occurred.');
           }
-          });}
+          })
+          
+          ;}

@@ -1547,3 +1547,92 @@ EVENT
 Name of the Venue: Grand Rex
 Venue Location: Paris
 Date of the Event: 2020-02-23T20:00:00
+Movie: undefined
+Language: undefined
+Plot: undefined
+Cast undefined
+Release Year: undefined
+IMDB Rating: undefined
+Country Produced In: undefined
+Movie: The Lego Movie
+Release Year: 2014
+IMDB Rating: 7.8
+Language: English, Turkish
+Plot: An ordinary LEGO construction worker, thought to be the prophesied as "special", is recruited to join a quest to stop an evil tyrant from gluing the LEGO universe into eternal stasis.
+Cast Will Arnett, Elizabeth Banks, Craig Berry, Alison Brie
+Country Produced In: USA, Denmark, Australia
+Rotten Tomatoes Rating: 95%
+Artist: Kendrick Lamar
+Song name: Needed Me
+Album: ANTI
+Artist: Rihanna
+Song name: Love On The Brain
+Album: ANTI
+Artist: Rihanna
+Song name: Umbrella
+Album: Good Girl Gone Bad: Reloaded
+Artist: Rihanna
+Song name: FourFiveSeconds
+Album: FourFiveSeconds
+Artist: Rihanna
+Song name: Take A Bow
+Album: Good Girl Gone Bad: Reloaded
+Artist: DJ Khaled
+Song name: Wild Thoughts (feat. Rihanna & Bryson Tiller)
+Album: Grateful
+Artist: T.I.
+Song name: Live Your Life (feat. Rihanna)
+Album: Paper Trail
+Artist: Rihanna
+Song name: Bitch Better Have My Money
+Album: Bitch Better Have My Money
+Artist: Eminem
+Song name: Love The Way You Lie
+Album: Recovery
+Artist: Rihanna
+Song name: LOYALTY. FEAT. RIHANNA.
+Album: DAMN.
+Artist: Kendrick Lamar
+Song name: LOYALTY. FEAT. RIHANNA.
+Album: DAMN.
+Artist: Rihanna
+Song name: Needed Me
+Album: ANTI
+Artist: Rihanna
+Song name: Love On The Brain
+Album: ANTI
+Artist: Rihanna
+Song name: Umbrella
+Album: Good Girl Gone Bad: Reloaded
+Artist: Rihanna
+Song name: FourFiveSeconds
+Album: FourFiveSeconds
+Artist: Rihanna
+Song name: Take A Bow
+Album: Good Girl Gone Bad: Reloaded
+Artist: DJ Khaled
+Song name: Wild Thoughts (feat. Rihanna & Bryson Tiller)
+Album: Grateful
+Artist: T.I.
+Song name: Live Your Life (feat. Rihanna)
+Album: Paper Trail
+Artist: Rihanna
+Song name: Bitch Better Have My Money
+Album: Bitch Better Have My Money
+Artist: Eminem
+Song name: Love The Way You Lie
+Album: Recovery
+Movie: Saturday Night Live: The Best of Tom Hanks
+Language: English
+Plot: N/A
+Cast Tom Hanks, Garth Brooks, A. Whitney Brown, Dana Carvey
+Release Year: 2004
+IMDB Rating: 7.0
+Country Produced In: USA
+Movie: Saturday Night Live: The Best of Tom Hanks
+Release Year: 2004
+IMDB Rating: 7.0
+Country Produced In: USA
+Language: English
+Plot: N/A
+Cast Tom Hanks, Garth Brooks, A. Whitney Brown, Dana Carvey
